@@ -75,29 +75,40 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are types of projects I have recently completed.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Serverless Systems
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Develop, deploy and support Amazon AWS solutions."
 
-      - title: Tempo
+      - title: Custom IVR Applications
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Design, develop, deploy and support web and IVR user interfaces. Develop database schemas and web services."
 
-      - title: Atom
+      - title: Platform Forklift
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Reverse engineer UNIX IVR binary files. Design, develop and deploy the new solution on a modern IVR platform."
 
-      - title: Delta
+      - title: IVR FAX-back System
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Code a dynamic alphanumeric SRGS grammar generator for recognizing account IDs. Code XSLT to build complex HTML layout of a FAX. Code an HTML-to-TIFF fax image generator."
+
+      - title: Outbound Calling
+        link: "#"
+        tagline: "Code CCXML to create an enhanced calling experience. Set up SIP trunking to carriers."
+
+      - title: Medical Surveys
+        link: "#"
+        tagline: "Design, develop and deploy HIPAA-compliant inbound and outbound surveys. Support dynamic JSON surveys definitions and render as either IVR, tect or a mobile web app."
+
+      - title: Platform Extensions
+        link: "#"
+        tagline: "ode Avaya POM Processors. Code Aspect CXServer messaging agents. Code custom Java components to extend IVR functionality. Code Continuous Integration tools for automating deployment and testing."
+
+      - title: Support Services
+        link: "#"
+        tagline: "Mentoring and training. Code reviews. Identifying and resolving production issues."
 
 skills:
     title: Skills &amp; Proficiency
