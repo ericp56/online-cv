@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: ericp@nextivr.com
-    phone: (919) 410-698
+    phone: (919) 410-6398
     citizenship:
     website: www.nextivr.com #do not add http://
     linkedin: ericphetteplace
@@ -47,7 +47,7 @@ career-profile:
     summary: |
       I am a full-stack IVR developer working with IVR platform partners and resellers. I specialize in platform replacements and greenfield implementations.
 education:
-    - degree: B.S in Management of Information Systems
+    - degree: B.S. in Management of Information Systems
       university: Babson College
       time: 1993
 experiences:
@@ -90,7 +90,7 @@ projects:
         link: "#"
         tagline: "Reverse engineer UNIX IVR binary files. Design, develop and deploy the new solution on a modern IVR platform."
 
-      - title: IVR FAX-back System
+      - title: IVR FAX-Back System
         link: "#"
         tagline: "Code a dynamic alphanumeric SRGS grammar generator for recognizing account IDs. Code XSLT to build complex HTML layout of a FAX. Code an HTML-to-TIFF fax image generator."
 
@@ -100,7 +100,7 @@ projects:
 
       - title: Medical Surveys
         link: "#"
-        tagline: "Design, develop and deploy HIPAA-compliant inbound and outbound surveys. Support dynamic JSON surveys definitions and render as either IVR, tect or a mobile web app."
+        tagline: "Design, develop and deploy HIPAA-compliant inbound and outbound surveys. Support dynamic JSON surveys definitions and render as either IVR, text or a mobile web app."
 
       - title: Platform Extensions
         link: "#"
@@ -120,7 +120,7 @@ skills:
       - name: Docker, Kubernetes
         level: 60%
 
-      - name: Aspect(Voxeo) Prophecy and CXP
+      - name: Alvaria(Voxeo) Prophecy and CXP
         level: 99%
 
       - name: Avaya AOD, POM and AES
