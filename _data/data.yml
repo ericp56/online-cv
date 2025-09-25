@@ -96,7 +96,7 @@ projects:
 
       - title: Outbound Calling
         link: "#"
-        tagline: "Code CCXML to create an enhanced calling experience. Set up SIP trunking to carriers."
+        tagline: "Code CCXML to create an enhanced calling experience and maximize answering machine detection. Maintain SIP trunking with carriers."
 
       - title: Medical Surveys
         link: "#"
