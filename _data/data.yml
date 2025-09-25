@@ -110,6 +110,10 @@ projects:
         link: "#"
         tagline: "Mentoring and training. Code reviews. Identifying and resolving production issues."
 
+      - title: Contact Center Applications
+        link: "#"
+        tagline: "Work with contact center teams to design, develop and deploy custom applications that integrate with call routing and other backend systems."
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -117,10 +121,13 @@ skills:
       - name: Amazon AWS
         level: 85%
 
+      - name: Twilio
+        level: 60%
+
       - name: Docker, Kubernetes
         level: 60%
 
-      - name: Alvaria(Voxeo) Prophecy and CXP
+      - name: Aspect(Voxeo) Prophecy and CXP
         level: 99%
 
       - name: Avaya AOD, POM and AES
@@ -139,7 +146,7 @@ skills:
         level: 90%
 
       - name: HTML & CSS
-        level: 80%
+        level: 85%
 
       - name: MSSQL, Oracle and Postgres
         level: 90%
